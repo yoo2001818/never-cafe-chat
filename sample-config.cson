@@ -15,7 +15,7 @@ phantom = {
 naver = {
   id = '네이버 아이디'
   pw = '네이버 비밀번호'
-  chat_room = |https://chat.cafe.naver.com/room/00000000/sample:0000000000000   # 채팅방 주소
+  chat-room = |https://chat.cafe.naver.com/room/00000000/sample:0000000000000   # 채팅방 주소
 }
 irc = {
   server = 'irc.ozinger.org'            # 봇이 들어갈 irc 서버.
