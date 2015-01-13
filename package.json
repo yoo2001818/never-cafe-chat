@@ -16,6 +16,8 @@
     "async": "^0.9.0",
     "cursive": "0.2.0",
     "irc": "^0.3.7",
-    "phantom": "^0.6.3"
+    "ncc-bot": "git://github.com/yoo2001818/node-ncc.git",
+    "tough-cookie": "latest",
+    "request": "latest"
   }
 }

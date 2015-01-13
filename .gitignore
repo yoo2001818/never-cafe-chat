@@ -2,3 +2,4 @@ node_modules
 config.cson
 cookie.txt
 .DS_Store
+cookie.json
